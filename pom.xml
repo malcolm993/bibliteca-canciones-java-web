@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>grupo.tauro</groupId>
-    <artifactId>agenda-siniestros-java-web</artifactId>
+    <artifactId>biblioteca-canciones-java-web</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>agenda-siniestros-java-web</name>
+    <name>biblioteca-canciones-java-web</name>
     
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
