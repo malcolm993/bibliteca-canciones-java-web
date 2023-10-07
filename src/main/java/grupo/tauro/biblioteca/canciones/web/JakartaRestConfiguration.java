@@ -1,4 +1,4 @@
-package grupo.tauro.agenda.siniestros.java.web;
+package grupo.tauro.biblioteca.canciones.web;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
