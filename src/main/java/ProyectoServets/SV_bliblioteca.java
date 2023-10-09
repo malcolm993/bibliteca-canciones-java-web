@@ -34,7 +34,7 @@ public class SV_bliblioteca extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        response.setContentType("text/html;charset=UTF-8");
+            response.setContentType("text/html;charset=UTF-8");
         ListasCancionesHardcodeadas listCan = new ListasCancionesHardcodeadas();
         request.setAttribute("listaCanciones", listCan.getall());
         request.getRequestDispatcher("WEB-INF/mostrarBibliotecasCanciones.jsp").forward(request, response);

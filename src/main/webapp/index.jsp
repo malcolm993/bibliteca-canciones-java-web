@@ -25,9 +25,10 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">QUIENES SOMOS</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#services">APORTE</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">CONTACTO</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">INGRESA</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,7 +39,7 @@
                 <h1 class="fw-bolder">Bienvenido a Biblioteca de Canciones!</h1>
                 <p class="lead">Aquí podrás encontrar los acordes para tocar tus canciones favoritas</p>
                 <!-- <a class="btn btn-lg btn-light" href="#about">Buscar Canción!</a> -->
-                <a class="btn btn-lg btn-light" href="biblioteca">Buscar Canción!
+                <a class="btn btn-lg btn-light" href="biblioteca">Buscar Canción!</a>
             </div>
         </header>
         <!-- About section-->
